@@ -48,7 +48,7 @@ public class LambdaExamples {
     }
 	
 	//Crea un metodo que convierta numeros a una lista de cadenas 
-	private static List<String> pruebaStrem(List<Integer> numeros) {
+	public static List<String> pruebaStrem(List<Integer> numeros) {
 		
 		List<String> listIntegers = new ArrayList<>();
 		List<String> listIntegersNuevo = new ArrayList<>();
